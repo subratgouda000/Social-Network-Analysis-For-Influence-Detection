@@ -63,12 +63,12 @@ The system combines four centrality measures with content-based analysis to prod
 5. User_198 (0.48)
 
 ## 📜 Publication & Authors
-**Publication:** Ashish Kumar Dass, Subrat Gouda, Aparna Sahu, Akanksha Priyadarshani Muni, Kiran Devi, "Social Network Analysis For Influence Detection," *Tanz Research Journal*, vol.12, no. 33, pp. 346-363, 2026.
+**Publication:** Ashish Kumar Dass, **Subrat Gouda**, Aparna Sahu, Akanksha Priyadarshani Muni, Kiran Devi, "Social Network Analysis For Influence Detection," *Tanz Research Journal*, vol.12, no. 33, pp. 346-363, 2026.
 
 **DOI/URL Link:** https://tanzresearch.net/volume-12-issue-3-2026
 
 **Project Team:**
-- Subrat Gouda (Roll No: 202220361)
+- **Subrat Gouda (Roll No: 202220361)**
 - Aparna Sahu (Roll No: 202221390)
 - Akanksha Priyadarshani Muni (Roll No: 202221287)
 - Kiran Devi (Roll No: 202245370)
